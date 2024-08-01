@@ -1,11 +1,11 @@
-# package-manager-cli
+# package-manager-alias-cli
 
 One command to use any* package manager.
 
 ## Install
 
 ```
-npm install -g package-manager-cli
+npm install -g package-manager-alias-cli
 ```
 
 ## Usage

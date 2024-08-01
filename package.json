@@ -1,5 +1,5 @@
 {
-  "name": "package-manager-cli",
+  "name": "package-manager-alias-cli",
   "version": "1.0.0",
   "description": "One command to use any* package manager",
   "main": "pm.js",
